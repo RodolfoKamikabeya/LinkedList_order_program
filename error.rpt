@@ -1,0 +1,8 @@
+Error file                      Error Messages
+
+record 9                    <year error start/end 2017/1998
+record 11                       <month error  start/end 13/5
+record 23                     <day error start/end 2/29 2/20
+record 24                     <day error start/end 4/31 3/31
+
+Total number of error record 4

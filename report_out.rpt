@@ -1,0 +1,30 @@
+                                   Employee Report                      2021/05/31 20:55:49
+      Last           First         Date of          Annual      Department           Years Predicted/monthly
+      Name         Initial            Hire          Salary           Title      of Service      Retirement
+
+   Allison              T.     Set.20,2000      $45,878.89     Engineering              21       $2,519.52
+     Bonds              B.     May.12,1990      $32,398.89         Testing              29       $1,779.24
+   Charlie              R.      Apr.3,1995     $123,455.90        Research              24       $6,779.79
+  Harrison              M.      Jan.1,2010      $98,090.98      Accounting              11       $2,521.76
+   Jeffery              X.     Aug.24,2000       $1,999.99       Technical              21       $0,109.83
+   Johnson              M.     Set.19,2000      $78,989.00         Medical              21       $4,337.81
+     Jones              L.      Jan.1,2005      $56,000.90       Technical               4       $0,210.00
+     Kelly              R.     Aug.22,2000      $10,000.00           Staff              21       $0,549.17
+     Kelly              P.      Aug.1,2020      $39,399.98           Staff               1       $0,147.75
+       Kim              K.     Feb.29,1992      $68,909.00       Technical               8       $0,717.80
+     Larry              S.     Aug.25,2000     $200,000.00       Technical              21      $10,983.33
+       Lex              L.     Aug.26,2000      $40,000.00           Staff              21       $2,196.67
+      Mark              S.     Aug.23,2000      $90,000.00         Medical              21       $4,942.50
+     Marti              M.     Aug.28,1991      $50,000.00           Staff              10       $0,520.83
+    Omannd              N.     Set.23,1987      $34,398.89 Quality Control              37       $1,889.07
+     Tinny              M.     Aug.20,2000      $10,000.00       Technical              21       $0,549.17
+    Turner              T.      May.5,2000     $100,000.34 Quality Control              21       $5,491.69
+     Uless              S.     Aug.21,2000      $99,999.00        Research              21       $5,491.61
+  Williams              H.     Set.18,2000     $120,000.00       Technical              21       $6,590.00
+      Zack              N.     Set.14,1997      $18,892.90         Testing              20       $0,722.65
+
+     Total                                   $1,318,414.62                                      $59,050.18
+
+Total record read  24
+Total records processed  20
+Total error records  4
